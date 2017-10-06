@@ -1,0 +1,38 @@
+body
+{
+	position:relative;
+	width:100%;
+	left:200px;
+	top:100px;
+}
+#header
+{
+	background-color:orange;
+	height:50px;
+	width:600px;
+}
+#body1
+{
+	position:absolute;
+	background-color:green;
+	height:400px;
+	width:150px;
+	border-right:10px solid black;
+}
+#body2
+{
+	position:absolute;
+	top:50px;
+	left:160px;
+	background-color:blue;
+	height:400px;
+	width:440px;
+}
+#footer
+{
+	position:absolute;
+	top:450px;
+	background-color:yellow;
+	height:50px;
+	width:600px;
+}

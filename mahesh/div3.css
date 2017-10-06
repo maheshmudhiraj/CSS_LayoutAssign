@@ -1,0 +1,29 @@
+#main
+{
+	width:900px;
+	height:200px;
+}
+#body1
+{
+	width:296px;
+	height:200px;
+	background-color:yellow;
+	float:left;
+	border:2px solid red;
+}
+#body2
+{
+	width:296px;
+	height:200px;
+		float:left;
+	background-color:blue;
+		border:2px solid red;
+}
+#body3
+{
+	width:296px;
+	height:200px;
+	background-color:green;
+		border:2px solid red;
+	float:right;
+}

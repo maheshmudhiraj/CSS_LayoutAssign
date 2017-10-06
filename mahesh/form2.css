@@ -1,0 +1,28 @@
+body
+{
+	position:relative;
+}
+label
+{
+	position:absolute;
+	left:200px;
+	top:100px;
+	font-size:30px;
+	font-family:verdana:
+}
+ul.form2
+{
+	position:absolute;
+	left:200px;
+	top:150px;
+}
+ul.form2 li
+{
+	list-style:none;
+	
+}
+ul.form2 li input
+{
+	line-height:30px;
+	border-bottom:solid;
+}
